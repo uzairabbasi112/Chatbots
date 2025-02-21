@@ -3,6 +3,7 @@
 A powerful chatbot interface that integrates multiple Language Learning Models (LLMs) including AI21, OpenAI, Claude, and local models. Built with Streamlit, this application provides a unified interface to interact with different AI models.
 
 ![Chatbot Interface](https://i.postimg.cc/fyCpbmFf/1.png)
+![Chatbot Interface](https://i.postimg.cc/Bb4RsMhv/2.png)
 
 ## 🌟 Features
 
